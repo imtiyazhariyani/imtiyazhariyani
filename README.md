@@ -14,7 +14,7 @@ I build tools and analyses that turn large-scale sequencing data into biological
 
 ## 🧬 About me
 
-I am a PhD candidate at **UC Irvine** working at the intersection of **evolutionary genomics, reproductive biology, and computational biology**. My research focuses on how gene and transposable element expression evolve across cell types, especially in the Drosophila germline.
+I am a PhD candidate at **UC Irvine** working at the intersection of **evolutionary genomics, reproductive biology, and computational biology**. My research focuses on how gene and transposable element expression evolve across cell types, especially in the _Drosophila_ germline.
 
 I enjoy building reproducible pipelines, analyzing high-dimensional biological data, and translating complex genomic patterns into clear biological stories.
 
@@ -72,8 +72,7 @@ Pipelines, visualization workflows, statistical modeling, and clean scientific r
 | Project                              | Description                                                                                           |
 | ------------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | **Single-cell gonad atlas**          | Comparative single-nucleus RNA-seq analysis of testis and ovary across Drosophila species and strains |
-| **TE expression in spermatogenesis** | Locus-resolved analysis of transposable element activation across male germline development           |
-| **Chromatin repression dynamics**    | Analysis of H3K9me2 redistribution and TE expression during meiosis                                   |
+| **TE expression in spermatogenesis** | Locus-resolved analysis of transposable element activation across male germline development           |                                 |
 | **Bioinformatics workflows**         | Reproducible pipelines for sequencing data processing, visualization, and statistical analysis        |
 
 ---
