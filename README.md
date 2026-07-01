@@ -96,9 +96,3 @@ I am also excited by the growing overlap between **AI, genomics, and biomedical 
 </div>
 
 ---
-
-<div align="center">
-
-### “Turning genomic complexity into biological insight.”
-
-</div>
