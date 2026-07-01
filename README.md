@@ -2,7 +2,7 @@
 
 # Hi, I'm Imtiyaz 👋
 
-### Computational biologist | Genomics & bioinformatics | Single-cell + repetitive elements
+### Computational biologist | Genomics & bioinformatics | Single-Cell RNA-seq
 
 I build tools and analyses that turn large-scale sequencing data into biological insight — especially in **single-cell genomics**, **transposable elements**, **germline biology**, and **chromatin regulation**.
 
