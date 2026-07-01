@@ -76,17 +76,6 @@ Pipelines, visualization workflows, statistical modeling, and clean scientific r
 
 ---
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imtiyazhariyani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyazhariyani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-
-</div>
-
----
 
 ## 🌱 What I care about
 
