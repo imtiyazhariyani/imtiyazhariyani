@@ -2,7 +2,7 @@
 
 # Hi, I'm Imtiyaz 👋
 
-### PhD Candidate at UC Irvine | Bioinformatics Intern at Zoetis
+### Currently Bioinformatics Intern at Zoetis
 
 I build tools and analyses that turn large-scale sequencing data into biological insight — especially in **single-cell genomics**, **transposable elements**, **germline biology**, and **chromatin regulation**.
 
@@ -50,7 +50,7 @@ I enjoy building reproducible pipelines, analyzing high-dimensional biological d
 
 ### 🧫 Single-cell genomics
 
-Cell type annotation, differential expression, pseudotime, compositional analysis, and cross-species integration.
+Cell type annotation, differential expression, pseudotime, compositional analysis, and coexpression networks.
 
 ### 🧬 Transposable elements
 
@@ -80,9 +80,9 @@ Pipelines, visualization workflows, statistical modeling, and clean scientific r
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=imtiyazhariyani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imtiyazhariyani&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyazhariyani&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiyazhariyani&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 
 </div>
 
@@ -102,7 +102,7 @@ I am also excited by the growing overlap between **AI, genomics, and biomedical 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imtiyaz%20Hariyani-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/imtiyazhariyani/)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imtiyaz.hariyani@uci.edu)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](#)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=xJCm3cEAAAAJ&hl=en)
 
 </div>
 
@@ -110,6 +110,3 @@ I am also excited by the growing overlap between **AI, genomics, and biomedical 
 
 <div align="center">
 
-### “Turning genomic complexity into biological insight.”
-
-</div>
