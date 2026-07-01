@@ -2,7 +2,7 @@
 
 # Hi, I'm Imtiyaz 👋
 
-### Bioinformatics Intern at Zoetis
+### PhD Candidate | Bioinformatics Intern at Zoetis
 
 I build tools and analyses that turn large-scale sequencing data into biological insight — especially in **single-cell genomics**, **transposable elements**, **germline biology**, and **chromatin regulation**.
 
