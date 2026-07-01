@@ -78,18 +78,6 @@ Pipelines, visualization workflows, statistical modeling, and clean scientific r
 
 ---
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🌱 What I care about
 
 I am especially interested in using computational biology to understand how genomes are regulated, how cell types evolve, and how large-scale biological data can be made more interpretable and useful.
