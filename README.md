@@ -4,7 +4,7 @@
 
 ### PhD Candidate | Bioinformatics Intern at Zoetis
 
-I build tools and analyses that turn large-scale sequencing data into biological insight — especially in **single-cell genomics**, **transposable elements**, **germline biology**, and **chromatin regulation**.
+I build tools and analyses that turn large-scale sequencing data into biological insight, especially across **single-cell and bulk RNA-seq**, **ATAC-seq**, and **whole-genome sequencing**.
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+Biological+Sciences;Bioinformatics+%7C+Genomics+%7C+Single-cell+RNA-seq;Building+research+tools+for+biological+discovery" alt="Typing SVG" />
 
@@ -14,18 +14,19 @@ I build tools and analyses that turn large-scale sequencing data into biological
 
 ## 🧬 About me
 
-I am a PhD candidate at **UC Irvine** working at the intersection of **evolutionary genomics, reproductive biology, and computational biology**. My research focuses on how gene and transposable element expression evolve across cell types, especially in the _Drosophila_ germline.
+I am a PhD candidate at **UC Irvine** working at the intersection of **evolutionary genomics, computational biology, and AI-assisted bioinformatics**. My research focuses on how gene and transposable element expression evolve across cell types, especially in the _Drosophila_ germline.
 
-I enjoy building reproducible pipelines, analyzing high-dimensional biological data, and translating complex genomic patterns into clear biological stories.
+Alongside my PhD, I have gained industry bioinformatics experience through internships at Amgen and Zoetis, where I have worked on large-scale sequencing analysis, reproducible workflows, and genomics tool development.
+
+I enjoy building reproducible pipelines, analyzing high-dimensional biological data, and translating complex genomic patterns into clear biological stories. I am also interested in using AI tools and agentic workflows to make bioinformatics more efficient, reproducible, and accessible.
 
 ---
 
 ## 🔬 Current focus
 
 * Single-cell and single-nucleus RNA-seq analysis
-* Transposable element expression at family and locus resolution
-* Chromatin regulation, especially H3K9me2 and germline repression
-* Comparative genomics across species and strains
+* Comparative genomics across cell types and species
+* Transposable element expression in the germline
 * Bioinformatics tooling for scalable biological discovery
 
 ---
