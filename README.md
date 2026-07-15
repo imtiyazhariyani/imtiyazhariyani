@@ -6,8 +6,6 @@
 
 I build tools and analyses that turn large-scale sequencing data into biological insight, especially across **single-cell and bulk RNA-seq**, **ATAC-seq**, and **whole-genome sequencing**.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=PhD+Candidate+in+Biological+Sciences;Bioinformatics+%7C+Genomics+%7C+Single-cell+RNA-seq;Building+research+tools+for+biological+discovery" alt="Typing SVG" />
-
 </div>
 
 ---
