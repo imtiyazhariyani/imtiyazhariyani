@@ -89,7 +89,7 @@ I am also excited by the growing overlap between **AI, genomics, and biomedical 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Imtiyaz%20Hariyani-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/imtiyazhariyani/)
-[![Email](https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imtiyaz.hariyani@uci.edu)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:imtiyaz1hariyani@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research-4285F4?style=for-the-badge\&logo=googlescholar\&logoColor=white)](https://scholar.google.com/citations?user=xJCm3cEAAAAJ&hl=en)
 
 </div>
